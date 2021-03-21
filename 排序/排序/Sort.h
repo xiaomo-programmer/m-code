@@ -26,3 +26,10 @@ void BubbleSort(int* a, int n);
 
 //¿ìËÙÅÅĞò
 void quicksort(int* a, int left, int right);
+
+
+
+void QuickSortNonR(int* a, int left, int right);
+
+
+void MergeSort(int* a, int n);
